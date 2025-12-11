@@ -30,12 +30,21 @@ After fine-tuning for one epoch:
 
 ## 🚀 How to Run the Project
 
-1.  **Clone the repository.**
-2.  **Install dependencies** using the `requirements.txt` file:
+### ⚠️ Important Note on Code Access ⚠️
+
+The notebook (`3rd period final.ipynb`) cannot be displayed directly on GitHub due to internal metadata conflicts from Google Colab.
+
+**To run the code:**
+
+1.  **Click the 'Open in Colab' badge (if available)** which may appear on the file page.
+2.  **OR, download the file** (`3rd period final.ipynb`) and upload it manually to Google Colab.
+
+The code is complete and functional, but must be run within the Colab environment.
+
+---
+
+1.  **Install dependencies** using the `requirements.txt` file:
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Open the `3rd period final.ipynb` file** in Google Colab and run all cells.
-## ⚠️ Note on Notebook Display
-The notebook (`3rd period final.ipynb`) may display an "Invalid Notebook" error when viewed directly on GitHub due to metadata from Google Colab widgets.
-**Please click the 'Open in Colab' badge (if available) or download the file and upload it to Google Colab to view and run the code correctly.** The code itself is intact.
+2.  **Open the `3rd period final.ipynb` file** in Google Colab and run all cells.
