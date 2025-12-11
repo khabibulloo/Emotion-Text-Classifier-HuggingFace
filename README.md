@@ -30,19 +30,18 @@ After fine-tuning for one epoch:
 
 ## 🚀 How to Run the Project
 
-### ⚠️ Important Note on Code Access ⚠️
+The best way to run this project is directly through Google Colab. Click the badge below to launch the notebook instantly:
 
-The notebook (`3rd period final.ipynb`) cannot be displayed directly on GitHub due to internal metadata conflicts from Google Colab.
-
-**To run the code:**
-
-1.  **Click the 'Open in Colab' badge (if available)** which may appear on the file page.
-2.  **OR, download the file** (`3rd period final.ipynb`) and upload it manually to Google Colab.
-
-The code is complete and functional, but must be run within the Colab environment.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khabibulloo/Emotion-Text-Classifier-HuggingFace/blob/main/3rd_period_final.ipynb)
 
 ---
+### Manual Setup (If Badge Fails)
 
+1.  **Install dependencies** using the `requirements.txt` file:
+    ```bash
+    pip install -r requirements.txt
+    ```
+2.  **Open the `3rd_period_final.ipynb` file** in Google Colab and run all cells.
 1.  **Install dependencies** using the `requirements.txt` file:
     ```bash
     pip install -r requirements.txt
