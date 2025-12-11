@@ -36,3 +36,6 @@ After fine-tuning for one epoch:
     pip install -r requirements.txt
     ```
 3.  **Open the `3rd period final.ipynb` file** in Google Colab and run all cells.
+## ⚠️ Note on Notebook Display
+The notebook (`3rd period final.ipynb`) may display an "Invalid Notebook" error when viewed directly on GitHub due to metadata from Google Colab widgets.
+**Please click the 'Open in Colab' badge (if available) or download the file and upload it to Google Colab to view and run the code correctly.** The code itself is intact.
